@@ -10,6 +10,20 @@
             "name": "Attach to Chrome",
             "port": 9222,
             "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Chrome swedbank-demo-client on Angular CLI Server",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:4200/#",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Chrome swedbank-demo-client on Angular CLI Server (1)",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:4200/#",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
