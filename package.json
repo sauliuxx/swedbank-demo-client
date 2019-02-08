@@ -47,10 +47,11 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.1",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+	"enhanced-resolve": "^3.3.0"
   },
   "devDependencies": {
-    "enhanced-resolve": "^3.3.0"
+    
   },
   "engines": {
     "node": "10.10.0",
